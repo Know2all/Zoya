@@ -1,7 +1,7 @@
 from telegram import Update
 from telegram.ext import ApplicationBuilder, CommandHandler, ContextTypes,MessageHandler,filters
 from telegram import ReplyKeyboardRemove
-from release.Zoya import ZoyaChatbot
+from Zoya import ZoyaChatbot
 
 BOT_TOKEN = '5786024728:AAGQFmtp5wEhy7Kzq_1ruoLzDKyX4LixSC8'
 GEMINI_API_KEY = "AIzaSyCqgpJTOLeA-BIk2lrHw2YojZA37NRBTJo"
