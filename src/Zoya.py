@@ -6,7 +6,7 @@ from langchain.memory import ConversationBufferMemory
 from langchain_community.vectorstores import FAISS
 from langchain.chains import ConversationalRetrievalChain
 from langchain_google_genai.chat_models import ChatGoogleGenerativeAI
-from langchain_huggingface.embeddings import HuggingFaceEmbeddings
+from langchain.embeddings import HuggingFaceEmbeddings
 
 
 class ZoyaChatbot:
