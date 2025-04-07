@@ -3,5 +3,5 @@ langchain-google-genai
 langchain-community
 faiss-cpu
 langchain-huggingface
-transformers==4.37.2 
-sentence-transformers==2.6.1
+transformers
+sentence-transformers
