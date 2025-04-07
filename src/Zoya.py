@@ -24,7 +24,7 @@ class ZoyaChatbot:
         self.memories = {}
 
         self._init_llm()
-        self._load_documents()
+        # self._load_documents()
         self._init_embeddings()
         self._init_vector_store()
         self._init_prompt()
