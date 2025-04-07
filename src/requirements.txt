@@ -5,3 +5,4 @@ faiss-cpu
 langchain-huggingface
 transformers
 sentence-transformers
+python-telegram-bot
