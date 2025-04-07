@@ -3,6 +3,6 @@ langchain-google-genai
 langchain-community
 faiss-cpu
 langchain-huggingface
-transformers
-sentence-transformers
 python-telegram-bot
+transformers==4.37.2 
+sentence-transformers==2.6.1
